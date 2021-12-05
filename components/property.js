@@ -57,7 +57,7 @@ const Property = ({
         </Flex>
         <Flex
           alignItems="center"
-          p="1"
+          p="1.01"
           justifyContent="space-between"
           w="250px"
           color="blue.400"
